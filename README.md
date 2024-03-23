@@ -1,6 +1,6 @@
 # oop-class-and-object-csharp
 
-## Capaian Pembelajaran
+## Sub Capaian Pembelajaran
 
 1. Mahasiswa mampu mendeklarasikan kelas yang berisi atribut dan metode sesuai spesifikasi.
 2. Mahasiswa mampu menginstansiasi kelas menjadi objek dan mengoperasikan metode-metode di objek tersebut.
